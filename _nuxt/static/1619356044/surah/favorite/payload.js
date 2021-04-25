@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/surah/favorite", {data:[{}],fetch:[],mutations:[]});
